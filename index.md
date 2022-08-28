@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Schedule
 nav_order: 1
 currWeekNumber: 1
