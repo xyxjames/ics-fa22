@@ -16,10 +16,10 @@ schedule:
   - name: Tuesday
   - name: Wednesday
     events:
-    - name: Lecture
-      start: 6:40 PM
-      end: 8:30 PM
-      location: TBA
+      - name: Lecture
+        start: 6:40 PM
+        end: 8:30 PM
+        location: TBA
   - name: Thursday
   - name: Friday
 ---
