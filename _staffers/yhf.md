@@ -1,5 +1,5 @@
 ---
 name: Hongfei Yan
 role: Faculty
-photo: /sp22/assets/images/yhf.jpg
+photo: /ics-fa22/assets/images/yhf.jpg
 ---

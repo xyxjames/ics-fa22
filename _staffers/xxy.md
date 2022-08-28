@@ -1,5 +1,5 @@
 ---
 name: Xingyu Xiang
 role: Teaching Assistant
-photo: /sp22/assets/images/xxy.jpg
+photo: /ics-fa22/assets/images/xxy.jpg
 ---
