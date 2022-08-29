@@ -31,6 +31,10 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
+      - name: Lecture
+        start: 8:00 AM
+        end: 9:50 AM
+        location: TBA
   - name: Wednesday
     events:
       - name: Seminar
@@ -38,5 +42,10 @@ schedule:
         end: 8:30 PM
         location: TBA
   - name: Thursday
+    events:
+    - name: Lecture
+      start: 10:10 AM
+      end: 12:00 AM
+      location: TBA
   - name: Friday
 ---
