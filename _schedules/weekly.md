@@ -34,18 +34,16 @@ schedule:
       - name: Lecture
         start: 8:00 AM
         end: 9:50 AM
-        location: TBA
   - name: Wednesday
     events:
       - name: Seminar
         start: 6:40 PM
         end: 8:30 PM
-        location: TBA
+        location: 地学 305
   - name: Thursday
     events:
     - name: Lecture
       start: 10:10 AM
-      end: 12:00 AM
-      location: TBA
+      end: 12:00 PM
   - name: Friday
 ---
