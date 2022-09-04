@@ -8,8 +8,6 @@ nav_order: 2
 
 This page contains resources for learning ICS and general computer science.
 
-## Textbook
-
 ## ICS course materials
 
 All course materials will be distributed via [PKU Netdisk](https://disk.pku.edu.cn/) for confidentiality.
@@ -28,7 +26,7 @@ All course materials will be distributed via [PKU Netdisk](https://disk.pku.edu.
 ## General learning materials
 
 + [OI Wiki](https://oi-wiki.org/)
-+ [CSDIY Wiki](csdiy.wiki) by [Yinmin Zhong](https://github.com/PKUFlyingPig)
++ [CSDIY Wiki](https://csdiy.wiki) by [Yinmin Zhong](https://github.com/PKUFlyingPig)
 + [Computer Systems Learning Resources: A Recommended List](https://www.overleaf.com/project/61dcfd4ecc29a52b2bad2f76) by [Zhenbang You](https://github.com/ZhenbangYou)
 
 ## Tools and tutorials
