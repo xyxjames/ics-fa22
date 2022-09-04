@@ -29,21 +29,20 @@ timeline:
   - '9:00 PM'
 schedule:
   - name: Monday
-  - name: Tuesday
     events:
       - name: Lecture
-        start: 8:00 AM
-        end: 9:50 AM
+        start: 1:00 PM
+        end: 2:50 PM
+  - name: Tuesday
   - name: Wednesday
     events:
+      - name: Lecture
+        start: 1:00 PM
+        end: 2:50 PM
       - name: Seminar
         start: 6:40 PM
         end: 8:30 PM
         location: 地学 305
   - name: Thursday
-    events:
-    - name: Lecture
-      start: 10:10 AM
-      end: 12:00 PM
   - name: Friday
 ---
